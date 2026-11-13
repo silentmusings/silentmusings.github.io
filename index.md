@@ -1,3 +1,4 @@
 # silentmusings.github.io
 My deepest Reflections
-[[Myfirstarticle.md]]
+
+[First article](Myfirstarticle.md)
